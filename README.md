@@ -1,24 +1,24 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Ribaj+Osmani&nbsp;Marti+App;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Ribaj+Osmani&nbsp;Manager By Infiniti Forge;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
 ### 👨🏻‍🦱 About Me 
-![](https://visitor-badge.glitch.me/badge?page_id=jaabirosman.jaabirosman&style=flat-square&color=0088cc)
+![](https://visitor-badge.glitch.me/badge?page_id=ribajosmani.ribajosmani&style=flat-square&color=0088cc)
 I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran. 
 
 - 🔭 As a Back-End developer, I create web applications.
-- ⚡ In my free time, I solve problems on [jaabirosman](<https://jaabirosman.pythonanywhere.com/> "jaabirosman") and read tech articles.
+- ⚡ In my free time, I solve problems on [ribajosmani](<https://ribaj.pythonanywhere.com/> "ribajosmani") and read tech articles.
 ---
 <table align="center">
   <tr>
     <td>
-      <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=jaabirosman&column=2"/>
+      <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=ribajosmani&column=2"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jaabirosman&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ribajosmani&count_private=true&show_icons=true&theme=chartreuse-dark"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaabirosman&layout=compact&theme=chartreuse-dark&langs_count=8"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribajosmani&layout=compact&theme=chartreuse-dark&langs_count=8"/>
     </td>
   </tr>
 </table>
@@ -29,13 +29,13 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <div align="center">
     
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/nzrmohammad)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/ribajosmani)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/ribaj)
 [![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-F58025?logo=StackOverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/#)
 [![WebSite](https://img.shields.io/badge/WebSite-21759B?logo=WordPress&logoColor=white&style=for-the-badge)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:mohammad.nzr77@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/nzrmohammad)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/#)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:jaabirosman17@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/ribajosmani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/ribajosmani)
     
 </div>
 
@@ -59,11 +59,11 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### 📈 My Best Repo :
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/jaabirosman/First-Personal-Portfolio" title="First-Personal-Portfolio">
-  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=jaabirosman&repo=First-Personal-Portfolio&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
+  <a align="left" href="https://github.com/ribajosmani/First-Personal-Portfolio" title="First-Personal-Portfolio">
+  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ribajosmani&repo=First-Personal-Portfolio&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
   </a>
-    <a align="right" href="https://github.com/jaabirosman/First-Personal-Restaurant" title="First-Personal-Restaurant">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=jaabirosman&repo=First-Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
+    <a align="right" href="https://github.com/ribajosmani/First-Personal-Restaurant" title="First-Personal-Restaurant">
+   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ribajosmani&repo=First-Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
   </a>
 </div>
 
@@ -99,15 +99,15 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaabirosman&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaabirosman&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribajosmani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribajosmani&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaabirosman&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ribajosmani&hide_border=true" />
 </details>
 
 <details>
@@ -127,12 +127,12 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://github.com/jaabirosman/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/jaabirosman/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/jaabirosman/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/jaabirosman/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jaabirosman/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/jaabirosman/Gitwar?style=flat-square"/></td>
+	<td><a href="https://github.com/ribajosmani/Gitwar"><b>🚀 Gitwar</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ribajosmani/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ribajosmani/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ribajosmani/Gitwar?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ribajosmani/Gitwar?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ribajosmani/Gitwar?style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
@@ -150,7 +150,7 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/jaabirosman/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/ribajosmani/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
