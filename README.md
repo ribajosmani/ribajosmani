@@ -4,9 +4,9 @@
 
 ### 👨🏻‍🦱 About Me 
 ![](https://visitor-badge.glitch.me/badge?page_id=ribajosmani.ribajosmani&style=flat-square&color=0088cc)
-I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran. 
+I am a Front-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Somalia. 
 
-- 🔭 As a Back-End developer, I create web applications.
+- 🔭 As a Front-End developer, I create web applications.
 - ⚡ In my free time, I solve problems on [ribajosmani](<https://ribaj.pythonanywhere.com/> "ribajosmani") and read tech articles.
 ---
 <table align="center">
