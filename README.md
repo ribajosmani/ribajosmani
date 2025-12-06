@@ -41,15 +41,26 @@
 ---
 
 ## 👨‍💻 **Professional Summary**
-
-**Software Engineer and AI Engineer** with **4+ years** of experience designing, developing, and deploying full-scale digital systems for organizations in the **U.S., Canada, and East Africa**. Strong expertise in **PHP/Laravel, React, Flutter, Python, and AI automation**. Proven ability to lead projects end-to-end, build scalable architectures, manage cloud infrastructure, and collaborate remotely with distributed teams.
-
-### 🎯 **Core Competencies**
-- **Full-Stack Development** (Web & Mobile Applications)
-- **AI & Machine Learning Integration**
-- **Cloud Infrastructure & DevOps**
-- **Project Leadership & Team Management**
-- **UI/UX Design & Product Strategy**
+<div align="center">
+  <table>
+    <tr>
+      <td width="70%">
+        <p align="left">
+          Software Engineer and AI Engineer with 4+ years of experience designing, developing, and deploying full-scale digital systems for organizations in the U.S., Canada, and East Africa. Strong expertise in PHP/Laravel, React, Flutter, Python, and AI automation. Proven ability to lead projects end-to-end, build scalable architectures, manage cloud infrastructure, and collaborate remotely with distributed teams.<br><br>
+🎯 Core Competencies <br>
+- Full-Stack Development (Web & Mobile Applications) <br>
+- AI & Machine Learning Integration <br>
+- Cloud Infrastructure & DevOps <br>
+- Project Leadership & Team Management <br>
+- UI/UX Design & Product Strategy <br>
+        </p>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
